@@ -419,7 +419,7 @@
                     .tarjeta.bg-white.p-4
                       TarjetaAudio.color-acento-botones.mb-3(
                       texto="Pódcast"
-                      :audio="require_src('@/assets/curso/audio/Podcast_CF04_228144.mp3')"
+                      :audio="require_src('@/assets/curso/Podcast_CF01_62330168.mp3')"
                       @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
                       .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
