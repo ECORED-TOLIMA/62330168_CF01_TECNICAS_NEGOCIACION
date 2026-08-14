@@ -157,10 +157,10 @@ export default {
           imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', text: 'Aclaración y negociación.', esCorrecta: true },
-            { id: 'b', text: 'Contacto inicial.', esCorrecta: false },
-            { id: 'c', text: 'Prospección.', esCorrecta: false },
-            { id: 'd', text: 'Seguimiento.', esCorrecta: false },
+            { id: 'a', texto: 'Aclaración y negociación.', esCorrecta: true },
+            { id: 'b', texto: 'Contacto inicial.', esCorrecta: false },
+            { id: 'c', texto: 'Prospección.', esCorrecta: false },
+            { id: 'd', texto: 'Seguimiento.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Excelente trabajo! Las objeciones se gestionan durante la negociación.',

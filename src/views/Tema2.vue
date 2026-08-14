@@ -53,7 +53,7 @@
         figure
           img(src='@/assets/curso/temas/t2/img06.svg', alt='Imagen decorativa')
       .col.col-lg-9.col-12.order-lg-2.order-2
-        p(data-aos="fade-down") Estos aspectos claves deben contemplar otros de similar importancia como lo son la diversificación de canales de comercialización como:
+        p(data-aos="fade-down") Estos aspectos claves deben contemplar otros de similar importancia, como lo son la diversificación de canales de comercialización como:
         .row
           .col.col-lg-4.col-12
             .cajon.c4.p-4.h-100
@@ -89,7 +89,7 @@
           ul.lista-ul--color(data-aos="fade-down")
             li.mb-4
               i.fas.fa-caret-right
-              p.mb-0 <b>Bien o producto.</b> Bienes tangibles y servicios intangibles que se diseñar, crean o prestan para satisfacer las necesidades de las personas.
+              p.mb-0 <b>Bien o producto.</b> Bienes tangibles y servicios intangibles que se diseñan, crean o prestan para satisfacer las necesidades de las personas.
             li.mb-4
               i.fas.fa-caret-right
               p.mb-0 <b>Oferta.</b> Es la cantidad total de productos, bienes o servicios que los productores o vendedores están dispuestos a poner a disposición del mercado a un precio determinado.
@@ -160,19 +160,19 @@
           ul.lista-ul--color(data-aos="fade-down")
             li.mb-4
               i.fas.fa-caret-right
-              p.mb-0 <b>Mercado de consumo.</b> Representa el mercado donde se comercializan productos dirigidos a satisfacer una necesidad de consumo que pueden ser productos o servicios.
+              p.mb-0 <b>Mercado de consumo.</b> Representa el mercado donde se comercializan productos dirigidos a satisfacer una necesidad de consumo, que pueden ser productos o servicios.
             li.mb-4
               i.fas.fa-caret-right
               p.mb-0 <b>Mercadeo de inversión.</b> En el mercado de productos o bienes de inversión, se adquieren productos o equipos que cumplen una función específica y permanecen.
             li.mb-4
               i.fas.fa-caret-right
-              p.mb-0 <b>Mercado de productos industriales.</b> En este mercado se incluyen insumo o materias primas que serán transformadas en productos terminados o disponibles para su uso o consumo.
+              p.mb-0 <b>Mercado de productos industriales.</b> En este mercado se incluyen insumos o materias primas que serán transformadas en productos terminados o disponibles para su uso o consumo.
             li.mb-4
               i.fas.fa-caret-right
-              p.mb-0 <b>Mercado de servicios.</b> En este tipo de mercado el producto adquirido por el cliente es intangible, donde el cliente disfruta o consume el servicio.
+              p.mb-0 <b>Mercado de servicios.</b> En este tipo de mercado, el producto adquirido por el cliente es intangible, donde el cliente disfruta o consume el servicio.
             li.mb-0
               i.fas.fa-caret-right
-              p.mb-0 <b>Mercados financieros.</b> Es un espacio físico o virtual, mediante el cual se intercambian activos financieros entre diferentes agentes económicos cuyas transacciones definen los precios de éstos. 
+              p.mb-0 <b>Mercados financieros.</b> Es un espacio físico o virtual, mediante el cual se intercambian activos financieros entre diferentes agentes económicos cuyas transacciones definen los precios de estos. 
     p.mb-4(data-aos="fade-down") En este mercado se comercializan productos financieros que están sujetos a un activo subyacente.
     p.mb-4(data-aos="fade-down") La siguiente imagen ejemplifica de manera visual este tipo de mercado:
     .row.justify-content-center.mb-lg-4(data-aos="flip-up")
@@ -286,7 +286,7 @@
               .tarjeta.color-primario
                 .p-4
                   h4.text-center Mercado local
-                  p.mb-0 Es el que atiende un área reducida del mercado como una provincia o una ciudad.
+                  p.mb-0 Es el que atiende un área reducida del mercado, como una provincia o una ciudad.
           .col-lg-6.col-12.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
               img(src='@/assets/curso/temas/t2/img29.svg' alt='')
@@ -373,14 +373,14 @@
             .col-lg-6.order-lg-1.order-2
               h4 Segmentación psicográfica.
               p Se encarga de agrupar al público objetivo teniendo en cuenta variables como su comportamiento, estilo de vida, sus actitudes e intereses. 
-              p Para comprender al público objetivo, métodos de investigación como focus group, encuestas, entrevistas y estudios de casos, pueden resultar exitosos en la compilación de este tipo de conclusión.
+              p Para comprender al público objetivo, métodos de investigación como <em>focus group</em>, encuestas, entrevistas y estudios de casos, pueden resultar exitosos en la compilación de este tipo de conclusión.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/t2/img36.jpg', alt='Imagen decorativa')
           .row.justify-content-center.p-4
             .col-lg-6.order-lg-1.order-2
               h4 Segmentación conductual.
-              p Se centra en la manera y proceso que los clientes viven al tomar sus decisiones de compra identificando comportamientos y patrones relacionados.
+              p Se centra en la manera y proceso que los clientes viven al tomar sus decisiones de compra, identificando comportamientos y patrones relacionados.
               p Debe recopilar datos como las actitudes del público hacia una marca, la forma de uso y su conocimiento son ejemplos de segmentación conductual.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
@@ -414,7 +414,7 @@
               p.mb-0 <b>Definir el mercado.</b> Para segmentar el mercado, lo primero que se debe definir es el tamaño del mercado, también se debe identificar en qué parte de este sector encaja la marca y validar la solución que brindan los productos delimitando su alcance.
             li.mb-4
               i.fas.fa-caret-right
-              p.mb-0 <b>Segmentar.</b> En este paso se elige el tipo de segmentación de mercado o variables específicas a aplicar para determinar la segmentación que más se adecua a la marca.
+              p.mb-0 <b>Segmentar.</b> En este paso se elige el tipo de segmentación de mercado o variables específicas a aplicar para determinar la segmentación que más se adecúa a la marca.
             li.mb-4
               i.fas.fa-caret-right
               p.mb-0 <b>Comprender el mercado.</b> Se basa en conocer las necesidades de cada grupo, por lo que se deben realizar a los clientes las preguntas adecuadas. Dependiendo del tipo de segmentación de mercados seleccionada, esto permite conocer al público objetivo detalladamente. 
@@ -510,7 +510,7 @@
           .tarjeta.color-acento-contenido.p-3(x="42%" y="22.7%" numero="+")
             p.mb-0 Son clientes con altas expectativas de servicios personalizado.
           .tarjeta.color-acento-contenido.p-3(x="58%" y="22.7%" numero="+")
-            p.mb-0 Son clientes que comprar regularmente y se relacionan con la marca.
+            p.mb-0 Son clientes que compran regularmente y se relacionan con la marca.
           .tarjeta.color-acento-contenido.p-3(x="69.5%" y="46%" numero="+")
             p.mb-0 Individuos interesados en la marca pero que aún no han adquirido sus productos o servicios.
           .tarjeta.color-acento-contenido.p-3(x="69.5%" y="78%" numero="+")
@@ -564,7 +564,7 @@
           LineaTiempoD.color-acento-botones.especial
             .row(numero="1" titulo="Prospección")
               .col-12.mb-4.mb-md-0
-                p.mb-0 El proceso de ventas se inicia cuando el vendedor hace la prospección de nuevo clientes para la empresa. La prospección consiste en identificar personas o empresas interesados en adquirir los productos que ofrece la empresa. Es decir, que el vendedor busca clientes potenciales para la empresa.
+                p.mb-0 El proceso de ventas se inicia cuando el vendedor hace la prospección de nuevos clientes para la empresa. La prospección consiste en identificar personas o empresas interesados en adquirir los productos que ofrece la empresa. Es decir, que el vendedor busca clientes potenciales para la empresa.
             .row(numero="2" titulo="Calificación del cliente")
               .col-12.mb-4.mb-md-0
                 p Luego de realizar la prospección de clientes, el vendedor debe buscar información sobre los candidatos que identificó, esta información ayudará a depurar el listado de nuevos clientes, de esta forma se puede eliminar a aquellos candidatos que no reúnen los criterios suficientes.
@@ -575,7 +575,7 @@
                 p.mb-0 De acuerdo con la respuesta que obtenga, el vendedor podrá ofrecer realizar un estudio de sus necesidades y realizar una propuesta para darle una posible solución.
             .row(numero="4" titulo="Análisis del cliente y propuesta de solución")
               .col-12.mb-4.mb-md-0
-                p Inmediatamente, cuando el vendedor obtiene el aval del cliente puede acercarse a la empresa y realizar un análisis de sus necesidades. En este proceso puede acompañarse de un grupo de expertos de la empresa para proceder a preparar la propuesta de solución, el propósito es poder entregar al cliente una forma para mejorar sus resultados por medio del uso de los productos que la empresa oferta. 
+                p Inmediatamente, cuando el vendedor obtiene el aval del cliente, puede acercarse a la empresa y realizar un análisis de sus necesidades. En este proceso puede acompañarse de un grupo de expertos de la empresa para proceder a preparar la propuesta de solución, el propósito es poder entregar al cliente una forma para mejorar sus resultados por medio del uso de los productos que la empresa oferta. 
                 p.mb-0 Se presentan los problemas y oportunidades encontrados, estableciendo la relación costo beneficio de la propuesta planteada.
             .row(numero="5" titulo="Presentación de la propuesta de valor")
               .col-12.mb-4.mb-md-0
@@ -584,7 +584,7 @@
             .row(numero="6" titulo="Aclaración, negociación y modificación")
               .col-12.mb-4.mb-md-0
                 p Surgen dudas que se proceden a aclarar y se podrá negociar algunos puntos en los que el cliente no esté de acuerdo; por ello, esta fase se conoce como el manejo de objeciones.
-                p.mb-0 En consecuencia, se puede lograr modificaciones en la propuesta original, para finalmente ponerse de acuerdo en la negociación.
+                p.mb-0 En consecuencia, se pueden lograr modificaciones en la propuesta original, para finalmente ponerse de acuerdo en la negociación.
             .row(numero="7" titulo="Cierre de ventas")
               .col-12.mb-4.mb-md-0
                 p Por último, cuando ambas partes están de acuerdo y se termina el proceso de negociación. El vendedor puede cerrar formalmente la transacción de ventas.

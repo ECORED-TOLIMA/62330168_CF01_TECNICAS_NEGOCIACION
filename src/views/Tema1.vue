@@ -20,7 +20,7 @@
           figure
             img(src='@/assets/curso/temas/t1/img02.svg', alt='Imagen decorativa')
         .col.col-lg-9.col-12.order-lg-2.order-2
-          p.mb-4(data-aos="fade-down") El conflicto se considera una contradicción o antagonismo que se presenta entre una o más personas debido a percepciones, valores o intereses opuestos. En la organización por su parte el conflicto es innato, surge de la inevitable interacción humana entre miembros de diferentes equipos, áreas o departamentos generada por las metas, recursos limitados o roles mal definidos; por esto debe ser tenido en cuenta en la gestión organizacional. Su finalidad es mejorar las relaciones entre los integrantes de la organización, así como la consecución de sus logros.
+          p.mb-4(data-aos="fade-down") El conflicto se considera una contradicción o antagonismo que se presenta entre una o más personas debido a percepciones, valores o intereses opuestos. En la organización por su parte, el conflicto es innato, surge de la inevitable interacción humana entre miembros de diferentes equipos, áreas o departamentos generada por las metas, recursos limitados o roles mal definidos; por esto debe ser tenido en cuenta en la gestión organizacional. Su finalidad es mejorar las relaciones entre los integrantes de la organización, así como la consecución de sus logros.
           p.mb-0(data-aos="fade-down")  El conflicto atraviesa distintas etapas:
       .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
         SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
@@ -130,11 +130,11 @@
               figure
                 img(src='@/assets/curso/temas/t1/img13.svg', alt='Imagen decorativa')
             .tarjeta.color-acento-contenido.p-3(x="68%" y="23%" numero="+")
-              p.mb-0 Conduce a la inactividad o evitación del conflicto, ya que no se percibe la necesidad de intervenir, lo que genera bajos resultados conjuntos. 
+              p.mb-0 Reduce la capacidad de percibir y procesar adecuadamente la información, produciendo resultados menos favorables. Por ello, el nivel de tensión moderado es el más adecuado para una gestión positiva del conflicto.
             .tarjeta.color-acento-contenido.p-3(x="68%" y="46%" numero="+")
               p.mb-0 Favorece una mayor implicación en la negociación, mejor integración de la información, consideración de alternativas y disposición para mejorar la situación. 
             .tarjeta.color-acento-contenido.p-3(x="68%" y="70%" numero="+")
-              p.mb-0 Reduce la capacidad de percibir y procesar adecuadamente la información, produciendo resultados menos favorables. Por ello, el nivel de tensión moderado es el más adecuado para una gestión positiva del conflicto.
+              p.mb-0 Conduce a la inactividad o evitación del conflicto, ya que no se percibe la necesidad de intervenir, lo que genera bajos resultados conjuntos. 
       .row.justify-content-center.col-12.mb-4
           figure.movil
             img(src='@/assets/curso/temas/t1/img14.svg', alt='Imagen decorativa')
@@ -230,14 +230,14 @@
           figure
             img(src='@/assets/curso/temas/t1/img22.svg', alt='Imagen decorativa')
         .col.col-lg-9.col-12.order-lg-2.order-2
-          p.mb-4(data-aos="fade-down") Los estilos de negociación surgen de acuerdo con la posición de las partes, de esta manera se puede encontrar diferentes estilos de negociación, los cuales varían en función de las variables: demandar valor, asertividad, empatía y crear valor.
+          p.mb-4(data-aos="fade-down") Los estilos de negociación surgen de acuerdo con la posición de las partes, de esta manera se pueden encontrar diferentes estilos de negociación, los cuales varían en función de las variables: demandar valor, asertividad, empatía y crear valor.
           p.mb-4(data-aos="fade-down") La negociación efectiva requiere que las partes involucradas posean habilidades de comunicación adecuadas para que puedan entender y responder a las necesidades y expectativas de los demás.
           p.mb-0(data-aos="fade-down") Existen tres estilos principales de negociación que se distinguen por el enfoque que toman los negociadores:
       TabsC.color-acento-botones.mb-5
         .py-3.py-md-4(titulo="La negociación inmediata")
           .row.justify-content-center
             .col-lg-7.col-12.mb-4.mb-md-0.order-lg-2.order-2
-              h4 La negociación inmediata.
+              //- h4 La negociación inmediata.
               p Este tipo de negociación se centra en llegar a un acuerdo sin prestar demasiada atención a las relaciones personales. Es común en situaciones como transacciones de compra y venta, donde lo importante es cerrar el trato lo más rápido posible sin la necesidad de establecer vínculos duraderos.
             .col-lg-5.col-8.order-lg-1.order-1.mb-4
               figure
@@ -245,7 +245,7 @@
         .py-3.py-md-4(titulo="La negociación progresiva")
           .row.justify-content-center
             .col-lg-7.col-12.mb-4.mb-md-0.order-lg-2.order-2
-              h4 Archivo de gestión o de oficina
+              //- h4 La negociación progresiva
               p En este estilo, el enfoque está en desarrollar una relación personal sólida antes de entrar en los aspectos técnicos o económicos de la negociación. Aquí, se prioriza crear un ambiente de confianza y cercanía, lo cual facilitará las negociaciones a futuro. Es útil en contextos donde se valoran las relaciones a largo plazo, ya que genera confianza antes de abordar los aspectos formales del negocio.
             .col-lg-5.col-8.order-lg-1.order-1.mb-4
               figure
@@ -253,7 +253,7 @@
         .py-3.py-md-4(titulo="La negociación situacional")
           .row.justify-content-center
             .col-lg-7.col-12.mb-4.mb-md-0.order-lg-2.order-2
-              h4 La negociación situacional
+              //- h4 La negociación situacional
               p Es el estilo más flexible y ágil de negociación, ya que se adapta a las circunstancias específicas de cada situación. Se basa en un análisis detallado de las condiciones, habilidades y debilidades de las partes involucradas. Este estilo permite a los negociadores alternar entre la negociación inmediata y la progresiva según sea necesario, lo que lo convierte en una técnica efectiva para diversas situaciones.
             .col-lg-5.col-8.order-lg-1.order-1.mb-4
               figure
@@ -408,9 +408,12 @@
         .col.col-lg-9.col-12.order-lg-1.order-1.mb-4
           .cajon.c2.color-secundario.p-4.mb-4
             p.mb-0(data-aos="fade-down") En toda negociación existen intereses compartidos y otros que entran en tensión; reconocerlos permite pasar del enfrentamiento al diálogo constructivo. Cuando se escucha activamente, se argumenta con claridad y se toman decisiones conscientes, es posible construir soluciones equilibradas y sostenibles.
-          p.mb-0(data-aos="fade-down") Con esta idea en mente, a continuación, se explora un ejemplo práctico de negociación, donde por medio de un pódcast se conocerá cómo estas técnicas se aplican en una situación real y cómo influyen en el resultado final del acuerdo:
+          p.mb-0(data-aos="fade-down") Con esta idea en mente, a continuación, se explora un ejemplo práctico de negociación, donde por medio de un pódcast, se conocerá cómo estas técnicas se aplican en una situación real y cómo influyen en el resultado final del acuerdo:
       .row.justify-content-center.mb-0
         .col.col-lg-10.col-12
+          .titulo-sexto.color-acento-contenido
+            h5 Pódcast.
+            span Así se construye una negociación exitosa
           .row.justify-content-center.align-items-center.g-0
             .col-lg-12.col-12.order-lg-2.order-2
               .cajon.cajon.c3.p-4
