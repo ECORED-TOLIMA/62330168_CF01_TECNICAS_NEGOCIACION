@@ -385,7 +385,7 @@
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/t2/img37.jpg', alt='Imagen decorativa')
-    p.mb-4(data-aos="fade-down") La siguiente imagen detalla de manera ejemplificada cada una de estas segmentaciones:
+    p.mb-4(data-aos="fade-down") La siguiente figura detalla de manera ejemplificada cada una de estas segmentaciones:
     .row.justify-content-center.mb-lg-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
@@ -414,7 +414,7 @@
               p.mb-0 <b>Definir el mercado.</b> Para segmentar el mercado, lo primero que se debe definir es el tamaño del mercado, también se debe identificar en qué parte de este sector encaja la marca y validar la solución que brindan los productos delimitando su alcance.
             li.mb-4
               i.fas.fa-caret-right
-              p.mb-0 <b>Segmentar.</b> En este paso se elige el tipo de segmentación de mercado o variables específicas a aplicar para determinar la segmentación que más se adecúa a la marca.
+              p.mb-0 <b>Segmentar.</b> En este paso se elige el tipo de segmentación de mercado o variables específicas a aplicar para determinar la segmentación que más se adecua a la marca.
             li.mb-4
               i.fas.fa-caret-right
               p.mb-0 <b>Comprender el mercado.</b> Se basa en conocer las necesidades de cada grupo, por lo que se deben realizar a los clientes las preguntas adecuadas. Dependiendo del tipo de segmentación de mercados seleccionada, esto permite conocer al público objetivo detalladamente. 
