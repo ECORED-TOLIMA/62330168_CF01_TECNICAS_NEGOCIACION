@@ -54,7 +54,7 @@
                 img(src='@/assets/curso/temas/t1/img07.svg' alt='AvatarTop')
             h4.text-center Desenlace
             p Se alcanza un resultado que puede ser funcional, cuando contribuye al aprendizaje y mejora organizacional, o disfuncional, si genera efectos negativos.
-      p.mb-4(data-aos="fade-down") La siguiente imagen resume estas fases y cómo se presentan en un conflicto:
+      p.mb-4(data-aos="fade-down") La siguiente figura resume estas fases y cómo se presentan en un conflicto:
       .row.justify-content-center.mb-lg-4(data-aos="flip-up")
         .col-lg-10.col-12
           .titulo-sexto.color-acento-contenido
@@ -189,7 +189,7 @@
             p(data-aos="fade-down") Otro aspecto clave consiste en centrar la atención en los intereses reales y no únicamente en las posiciones que cada parte defiende. Mientras las posiciones suelen ser visibles y rígidas, los intereses representan necesidades, motivaciones y expectativas subyacentes que, al identificarse, amplían las posibilidades de entendimiento y acuerdo.
       p(data-aos="fade-down") También resulta esencial promover la generación de soluciones creativas que permitan obtener beneficios mutuos. Explorar alternativas, proponer opciones diversas y adoptar una visión colaborativa facilita acuerdos sostenibles, equilibrados y satisfactorios para quienes participan en la negociación.
       p(data-aos="fade-down") El uso de criterios objetivos aporta equilibrio y legitimidad al proceso negociador. Basar las decisiones en datos, normas, estándares o referencias externas ayuda a reducir la subjetividad, fortalece la confianza y contribuye a acuerdos percibidos como justos y razonables.
-      p.mb-4(data-aos="fade-down") Partiendo de lo anterior, se presenta la siguiente imagen:
+      p.mb-4(data-aos="fade-down") Partiendo de lo anterior, se presenta la siguiente figura:
       .row.justify-content-center.mb-lg-4(data-aos="flip-up")
         .col-lg-10.col-12
           .titulo-sexto.color-acento-contenido
@@ -387,7 +387,7 @@
         .col-lg-3.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/t1/img36.png', alt='Imagen decorativa')
-      p.mb-4(data-aos="fade-down") Para complementar las técnicas de negociación previamente explicadas, se relaciona la siguiente imagen ilustrativa que las ejemplifica: 
+      p.mb-4(data-aos="fade-down") Para complementar las técnicas de negociación previamente explicadas, se relaciona la siguiente figura ilustrativa que las ejemplifica: 
       .row.justify-content-center.mb-lg-4(data-aos="flip-up")
         .col-lg-10.col-12
           .titulo-sexto.color-acento-contenido

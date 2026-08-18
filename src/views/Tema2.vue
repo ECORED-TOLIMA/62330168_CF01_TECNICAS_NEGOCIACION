@@ -105,7 +105,7 @@
             li.mb-0
               i.fas.fa-caret-right
               p.mb-0 <b>Canales de comercialización.</b> Son los medios, intermediarios o plataformas (físicos o digitales) utilizados para hacer llegar el producto desde el oferente hasta el consumidor final o cliente.
-    p.mb-4(data-aos="fade-down") La siguiente imagen relaciona de manera puntual el proceso del mercadeo:
+    p.mb-4(data-aos="fade-down") La siguiente figura relaciona de manera puntual el proceso del mercadeo:
     .row.justify-content-center.mb-lg-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
@@ -174,7 +174,7 @@
               i.fas.fa-caret-right
               p.mb-0 <b>Mercados financieros.</b> Es un espacio físico o virtual, mediante el cual se intercambian activos financieros entre diferentes agentes económicos cuyas transacciones definen los precios de estos. 
     p.mb-4(data-aos="fade-down") En este mercado se comercializan productos financieros que están sujetos a un activo subyacente.
-    p.mb-4(data-aos="fade-down") La siguiente imagen ejemplifica de manera visual este tipo de mercado:
+    p.mb-4(data-aos="fade-down") La siguiente figura ejemplifica de manera visual este tipo de mercado:
     .row.justify-content-center.mb-lg-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
@@ -224,7 +224,7 @@
             h4.text-center Mercado de trabajo
             p Es aquel donde confluyen la oferta y la demanda de trabajo. La oferta de trabajo está formada por el conjunto de trabajadores disponibles para ser vinculados a una organización y los empleadores dispuestos a contratar los trabajadores.
     p.mb-4(data-aos="fade-down") Por tanto, con el objetivo de simplificar, los compradores de horas de trabajo, serían las empresas.
-    p.mb-4(data-aos="fade-down") Igualmente, la siguiente imagen representa este tipo de mercado:
+    p.mb-4(data-aos="fade-down") Igualmente, la siguiente figura representa este tipo de mercado:
     .row.justify-content-center.mb-lg-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
@@ -541,7 +541,7 @@
                 img(src='@/assets/curso/temas/t2/img48.svg', alt='Imagen decorativa')
             .col.col-lg-12
               p.mb-3(data-aos="fade-down") Asimismo, el tiempo necesario para lograr una venta efectiva puede diferir considerablemente de acuerdo con las características del producto. Cuando se trata de bienes de fácil uso y bajo precio, el cierre de la venta suele realizarse en un corto período. En contraste, los productos o servicios de mayor complejidad y alto valor requieren un proceso de venta más prolongado, que puede extenderse durante meses o incluso años, hasta que finalmente se concreta la decisión de compra.
-    p.mb-4(data-aos="fade-down") La siguiente imagen, ilustra un poco este proceso:
+    p.mb-4(data-aos="fade-down") La siguiente figura, ilustra un poco este proceso:
     .row.justify-content-center.mb-lg-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
@@ -593,7 +593,7 @@
               .col-12.mb-4.mb-md-0
                 p.mb-0 De hecho, esta fase supone que el vendedor debe investigar y darle seguimiento a su cliente para determinar su nivel de satisfacción al hacer uso de sus productos. Por eso deberá estar atento a que se cumplan las fechas de entrega acordadas, además de verificar que el producto, ya sea un bien o servicio comprado, funcione según lo ofrecido en la propuesta. Esto con el fin de exceder las expectativas del cliente.
     p.mb-4(data-aos="fade-down") Se puede afirmar que el proceso de venta sigue una serie de pasos estructurados que permiten al vendedor concretar transacciones de manera efectiva. No obstante, dicho proceso no es rígido, ya que puede variar según el tipo de producto o servicio que se comercializa, el mercado objetivo al que se dirige y los lineamientos o requerimientos específicos establecidos por cada empresa.
-    p.mb-4(data-aos="fade-down") Para finalizar, se presenta la siguiente imagen que ejemplifica las etapas previamente explicadas:
+    p.mb-4(data-aos="fade-down") Para finalizar, se presenta la siguiente figura que ejemplifica las etapas previamente explicadas:
     .row.justify-content-center.mb-lg-0(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
