@@ -437,7 +437,7 @@
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.4 El cliente actual
-    p.mb-4(data-aos="fade-down") El cliente del mercado actual es un investigador exhaustivo en línea pre compra, valora la transparencia y se identifica mediante la creación de un buyer persona, analizando datos demográficos y psicográficos.
+    p.mb-4(data-aos="fade-down") El cliente del mercado actual es un investigador exhaustivo en línea precompra, valora la transparencia y se identifica mediante la creación de un buyer persona, analizando datos demográficos y psicográficos.
     p.mb-4(data-aos="fade-down") Es un consumidor hiperconectado, informado y exigente que busca experiencias personalizadas, inmediatez y sostenibilidad, actuando a menudo como <b>prosumidor</b>.
     .titulo-tercer-nivel.mb-4(data-aos="fade-right")
       img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/t1.svg')
